@@ -1,0 +1,16 @@
+<package>
+  <description brief="BagFromImages">
+
+     BagFromImages
+
+  </description>
+  <author>Raul Mur-Artal</author>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="std_msgs"/>
+  <depend package="rosbag"/>
+  <depend package="cv_bridge"/>
+  <depend package="image_transport"/>
+</package>
+
+
